@@ -19,7 +19,10 @@ span{
     margin-right:130px ;
     margin-left:130px ;
 }
-
+.text-after-icone{
+    font-size: 1.2em;
+    line-height: 1.3;
+}
 body {
     margin: 0;
     padding: 0;
